@@ -1,2 +1,4 @@
 # Doviz ofisi uygulaması
- Guncel döviz kuru verisini XML ile çektiğimiz al-sat döviz uygulaması
+ GÜNCEL DÖVİZ KURU VERİLERİNİ MERKEZ BANKASINDAN XML OLARAK ÇEKTİĞİMİZ
+ DÖVİZ AL-SAT HESABI YAPAN MASAÜSTÜ UYGULAMA
+![Uploading Ekran görüntüsü 2024-03-12 031636.png…]()
